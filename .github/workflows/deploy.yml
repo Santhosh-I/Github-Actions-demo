@@ -17,4 +17,4 @@ jobs:
         run: ls
 
       - name: Check HTML file
-        run: test -f index.html
+        run: test -f wrong-index.html
